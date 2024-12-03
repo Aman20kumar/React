@@ -1,4 +1,4 @@
-[admin - Admin@example.com, Password -123]
+[admin - admin@example.com, Password -123]
 [Users - a@a.com, i@i.com, k@k.com, d@d.com Password -123]
 
 ## Employee Management System
